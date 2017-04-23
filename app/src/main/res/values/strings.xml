@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simplest Bulls and Cows</string>
+    <string name="guess">Введите ваш ответ</string>
+    <string name="history"> %4$d: Быков: %1$d, коров: %2$d, попыток: %3$d\n</string>
+    <string name="check_button">Проверить</string>
+    <string name="generated">Число сгенерировано!</string>
+    <string name="win">Ты выиграл!</string>
+    <string name="no_input">Введи четырехзначное число!</string>
+    <string name="no_attempts">У тебя не осталось попыток, перезапусти приложение</string>
+</resources>
