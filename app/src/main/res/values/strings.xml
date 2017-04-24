@@ -4,7 +4,11 @@
     <string name="history"> %4$d: Быков: %1$d, коров: %2$d, попыток: %3$d\n</string>
     <string name="check_button">Проверить</string>
     <string name="generated">Число сгенерировано!</string>
-    <string name="win">Ты выиграл!</string>
+    <string name="win">Ты выиграл! Ответ: %1$d</string>
     <string name="no_input">Введи четырехзначное число!</string>
-    <string name="no_attempts">У тебя не осталось попыток, перезапусти приложение</string>
+    <string name="no_attempts">Ты проиграл. Ответ: %1$d</string>
+    <string name="new_game">Начата новая игра!</string>
+    <string name="unique_only">Загаданное число не может содержать повторяющиеся числа!</string>
+    <string name="menu_new_game">Начать заново</string>
+    <string name="need_new_game">Начните новую игру!</string>
 </resources>
